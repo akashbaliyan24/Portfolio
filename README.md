@@ -2,7 +2,7 @@
 
 A modern, fully responsive personal portfolio website built from scratch using React, Vite, Tailwind CSS, and Framer Motion. This project showcases my skills, features my work, and provides an easy way for visitors to get in touch.
 
-**<a href="https://akash-portfolio-nine-delta.vercel.app/" target="_blank" rel="noopener noreferrer">➡️ Live Demo</a>**
+[➡️ Live Demo](https://akash-portfolio-nine-delta.vercel.app/)
 
 ## ✨ Features
 
